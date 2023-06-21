@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Engineer's degree
+- name: Engineer's degree gsgs
   icon: fa-microscope
   timeframe: 2016-2020
   institution:
