@@ -11,54 +11,47 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Citibanamex
+    url: "https://www.citibanamex.com"
+    location: Mexico City
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Citibanamex is a financial services company part of Citi Group.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Apps Developer and Web Analyst
+    start: June 2021 
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Develop microservices using Spring Java.
+    - Design, develop and manage front end side using Angular 13 and Oracle DB.
+    - Analyse and document code.
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+ 
+- company:
+    name: Jazar Systems
+    url: "https://jazar-systems.com/mx/"
+    location: Mexico City
+    overview: is a software and systems engineering company that combines the rigor of critical embedded developments with the innovation and technology of information systems.
+  positions:
+  - designation: Web developer and Project Leader
+    start: August 2019 
+    end: May 2021
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Developing and managing websites using HTML5, CSS3, JS
+    - Leading a team.
+    - Analyzing, developing and documenting code.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Motorola Solutions.
+    url: "https://www.motorolasolutions.com"
+    location: Mexico City
+    overview: Motorola has led the advance of global safety for nearly a century, from communications on the Apollo missions to the analytics powering the smart cities of the future.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Back-end Developer
+    start: Feb 2019
+    end: Jun 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Developing and managing internal websites and applications.
+    - Using PHP, JS, JQuery, CSS3, Ajax.
+    
