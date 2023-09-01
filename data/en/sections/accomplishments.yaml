@@ -11,36 +11,36 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
+- name: Android and Big Data Course
   timeline: "March 2018 - March 2019"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Lobachevsky University, Nizhni Nóvgorod, Russia
+    url: http://www.unn.ru/
+  courseOverview: This course was a scholarship won by the best students of the University, the course provides an introduction to Android app development and databases, it was given to create our own application using big data.
+  certificateURL: "files/AndroidCertificate.pdf"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Licence PRO Systèmes Informatiques et Logiciels, Développement et Administration Internet et Intranet
+  timeline: "Jun 2015 - Jun 2016"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: University Aix-Marseille
+    url: https://formations.univ-amu.fr/fr/LP/PSMI
+  courseOverview: "Winner of a national scholarship to study one year in France (a french intensive course and a Bachelor's degree in Computer science (web development))"
+  certificateURL: "files/BachelorsDiploma.pdf"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: French intensive course in Montpellier France and TCF Certification (B1)
+  timeline: "Jun 2015 - Sept 2018"
   organization:
     name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    url: https://www.accentfrancais.com/es
+  courseOverview: This course was part of the scholarship in France, it was taken to improve my french skills in order to start the university in France.
+  certificateURL: "files/FrenchCertificate.pdf"
 
-- name: Mastering Multithreading Programming with Go (Golang)
+- name: Advanced English and American Culture
   timeline: "Nov 2017 - Mar 2018"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, mulithreading topics.
-  certificateURL: "https://example.com"
+    name: University of Washington, USA.
+    url: https://www.washington.edu/
+  courseOverview: A won scholarship at the university, an introduction to american culture and advanced english learning.
+  certificateURL: "files/EnglishCourseCertificate.pdf"
  
 

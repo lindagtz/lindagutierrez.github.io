@@ -10,81 +10,79 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Engineer's degree gsgs
-  icon: fa-microscope
+- name: Engineer's degree - Engineering in Information and Communication Technologies  
+  icon: fa-graduation-cap
   timeframe: 2016-2020
   institution:
-    name: ABC University of Technology
-    url: "#"
+    name: Technological University of Tecamac
+    url: "https://uttecamac.edomex.gob.mx/"
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
-  timeframe: 2012-2016
-  institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+  
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
+    showGrades: false
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
+    - name: Software Engineering.
+    
     - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+ 
+    - name: Database Management Systems 
+      
+    - name: Information Systems Audit, among others
+   
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
+  - Development of an Android and a web application working with a web service for offering a CarWash a better administration of their customers' appointments and their incomes and outcomes, using Android Studio and Material Design.
+
+      
+ 
+
+
+- name: Bachelor's degree - Computer Science and software development, Internet and Intranet Management
+  icon: fa-graduation-cap
+  timeframe: 2015-2016
   institution:
-    name: MST College of Science
-    url: "#"
+    name: University of Aix-Marseille, France
+    url: "https://www.univ-amu.fr/"
   grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
+  
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Cybersecurity
+    
+    - name: Java programming
+ 
+    - name: Operating Systems
+      
+    - name: E-Commerce , Web analytics, Google Adwords, CMS, Google Analytics. 
+   
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
+  - Analysis and development of a project using SCRUM methodology, the system was able to add, delete and update online course, users could register and edit their profile information and suscribe and unsuscribe to free or paid courses.
+  
+- name: Associate's degree - Information and Communication Technologies
+  icon: fa-graduation-cap
+  timeframe: 2013-2015
   institution:
-    name: JK School of Science
+    name: Technological University of Tecamac
+    url: "https://uttecamac.edomex.gob.mx/"
   grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+  
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 4
+    courses:
+    - name: Data structures and algorithms, OOP
+    
+    - name: Web development
+ 
+    - name: Database models
+      
+    - name: Software design. 
+   
+  extracurricularActivities: #(optional)
+  - Development of a Java administrative application which was able to create, read, update and delete users, it was adapted for any small business in order to help them to manage their incomes and customers information.
+  

@@ -23,16 +23,19 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Develop microservices using Spring Java.
-    - Design, develop and manage front end side using Angular 13 and Oracle DB.
-    - Analyse and document code.
+    - Development of  microservices using Spring Java.
+    - Designing, developing and managing front end side using Angular 13 and Oracle DB and PLSQL.
+    - Analysing and documenting code.
+    - Deployment of the website using UrbanCode Deploy and Openshift.
+    - Configuring a certificate on back-end and front-end side using Siteminder policies.
+  
 
  
 - company:
     name: Jazar Systems
     url: "https://jazar-systems.com/mx/"
     location: Mexico City
-    overview: is a software and systems engineering company that combines the rigor of critical embedded developments with the innovation and technology of information systems.
+    overview: It is a software and systems engineering company that combines the rigor of critical embedded developments with the innovation and technology of information systems.
   positions:
   - designation: Web developer and Project Leader
     start: August 2019 
@@ -53,5 +56,58 @@ experiences:
     end: Jun 2019
     responsibilities:
     - Developing and managing internal websites and applications.
+    - Helping administrative coworkers to solve their technological issues.
+    - Managing an Oracle database.
     - Using PHP, JS, JQuery, CSS3, Ajax.
     
+- company:
+    name: Freelance developer.
+    location: Mexico City
+    overview: Working as a freelancer developer has been a challenge because I had to be in charge of full development of a project.
+  positions:
+  - designation: Fullstack Developer
+    start: May 2018
+    end: Jul 2018
+    responsibilities:
+    - Full development of a web administrative project for a construction company that registered and managed all users and their tasks.
+    - Working with Node.JS, Angular JS, HTML5, CSS3, JQuery and MongoDB.
+- company:
+    name: Technological University of Tecamac
+    url: "https://uttecamac.edomex.gob.mx/"
+    location: Mexico City
+    overview: Working as a teacher helped to improve my communicative skills and to practice both languages.
+  positions:
+  - designation: English and french teacher
+    start: Jan 2017
+    end: Dec 2017
+    responsibilities:
+    - Making lesson plans. 
+    - Making dynamic classes to help my students with both languages.
+    - Working at a University I was able to help my students reaching some goals throughout learning a new language.
+- company:
+    name: Silex Taille Numérique.
+    url: "https://www.silex-taillenumerique.fr/"
+    location: Marseille, France
+    overview: A startup that offers web solutions for international companies.
+  positions:
+  - designation: Internship as a Front-end Developer
+    start: Mar 2016
+    end: Jun 2016
+    responsibilities:
+    - An international experience developing the front-end side of a dynamic site for a company in Amsterdam.
+    - Communicating in 2 languages (french and english) to accomplish with all the requirements of the customer.
+    - Learning about web design using HTML5, CSS3, PHP, Js, JQuery, Schema.org and Photoshop.
+
+- company:
+    name: Technological University of Tecamac.
+    url: "https://uttecamac.edomex.gob.mx/"
+    location: Mexico City
+    overview: An internship at the University where I studied in Mexico helped me to improve my skills.
+  positions:
+  - designation: Internship as a Software Developer
+    start: Apr 2015
+    end: Jun 2015
+    responsibilities:
+    - As my first job experience it was a challenge for me because I had to learn by myself how to code. 
+    - Update of a users module of the Evaluation Model System of Polytechnic Universities of Mexico. (MECASUP)
+    - Working with JSP, PHP, JQuery, JavaScript, CSS3 and HTML5
