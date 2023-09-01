@@ -22,8 +22,8 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Linda Gutierrez
+  title: Linda Gutierrez Sanchez
   type: website
-  description: Portfolio and personal blog of John Doe.
+  description: Portfolio and personal blog of Linda Gutierrez.
   image: images/author/jessica.png
   url: https://hugo-toha.github.io
